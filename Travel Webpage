@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+       body {
+    background-color: rgb(247, 224, 134);
+}
+       h1 {
+    background-color: rgb(240, 182, 9);  
+    color:rgb(245, 25, 17);
+}
+    </style>
+    <body>
+    
+        <h1>A journey to Incredible India</h1>
+        <p>This webpage is about my travel dairies.It will give you an insight of different places in India which I travelled.</p>
+        <ul>
+       <li><h2>Amritsar</h2></li>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/fields-of-grain.png" width="250">
+         <p>I believe Amritsar is a city of both sacredness and patriotism.I visited three places over there which are as follows:The Golden temple not only a place of sacredness but also shows the rich heritage of India.The Jallianwala Bagh was a place where hundreds of brave Indians were masscared by British.Wagah Border-the border between India and Pakistan has patriotism in its air.</p>
+         
+<li><h2>Nainital</h2></li>
+<img src="https://www.kasandbox.org/programming-images/landscapes/lake.png" width="250">
+<p>Nainital, a beautiful hill-station having Naini lake at it's centre and surrounded by hills.It has lot's of markets with different cultural items.</p>
+
+<li><h2>Manali</h2></li>
+<img src="https://www.kasandbox.org/programming-images/space/planet.png" alt="Mountains of Manali" width="250">
+<p>Manali is a beautiful hill-station. I visited there and experienced a beautiful snowfall.</p>
+</ul>
+        <h6>More places will be added soon.</h6>
+       
+        
+    </body>
+</html>
